@@ -1,6 +1,8 @@
 # ModernPostit
 Modern Postit Electron
 
+![Modern Post-It](https://github.com/roqueribeiro/ModernPostit/blob/master/images/demo.gif?raw=true)
+
 ## How To Run Application
 
 ``` bash
