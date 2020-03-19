@@ -1,0 +1,15 @@
+{
+  "name": "modernpostit",
+  "version": "1.0.0",
+  "description": "Modern Postit",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roque Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
