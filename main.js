@@ -20,8 +20,9 @@ function createWindow() {
         maximizable: false,
         minimizable: false,
         alwaysOnTop: true,
-        kiosk: true,
         skipTaskbar: true,
+        fullscreen: true,
+        simpleFullscreen: true,
         icon: iconPath
     })
 
